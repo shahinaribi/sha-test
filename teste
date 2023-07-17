@@ -1,0 +1,3 @@
+inport os
+os.sestem("clear")
+print ("hello world")
